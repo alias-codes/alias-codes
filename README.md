@@ -1,14 +1,14 @@
 # Hi, I'm Akshat
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Flutter+Developer;Java+%7C+Python+Programmer;Learning+Backend+Development;Building+Useful+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Java+%7C+Python+Programmer;Learning+Backend+Development;Building+Useful+Software" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 Computer Science Engineering Student
+🎓 Computer Science Student
 
 💻 I enjoy building software that solves real-world problems.
 
@@ -16,9 +16,9 @@
 
 * Flutter
 * Backend Development
+* Data Structures
 * REST APIs
 * System Design
-* Automation using Python
 
 ---
 
@@ -41,11 +41,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alias-codes&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alias-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alias-codes&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alias-codes&theme=tokyonight" />
 </p>
 
 ---
@@ -55,16 +55,6 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=alias-codes&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alias-codes&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
