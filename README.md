@@ -8,8 +8,6 @@
 
 ##  About Me
 
-🎓 Computer Science Student
-
 💻 I enjoy building software that solves real-world problems.
 
 🌱 Currently learning
@@ -17,7 +15,6 @@
 * Flutter
 * Backend Development
 * Data Structures
-* REST APIs
 * System Design
 
 ---
