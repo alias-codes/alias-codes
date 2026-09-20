@@ -47,16 +47,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alias-codes&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📚 Currently Working On
 
 * Advanced Flutter
